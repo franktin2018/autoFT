@@ -44,8 +44,9 @@ os.system(hythonPath + " " + executePython + " " + hipFile)
 ``` json
 {
     "TaskType":0,                               // 0 是 输出法线圆滑模型，1 是渲染出图，2是both
-    "ObjSrc":"E:/MTStudio/lilwei/geo/modelA/",  //obj序列路径
-    "ObjFileName":"head.$F.obj",                //obj 是文件名
+    "ObjSrc":"E:/MTStudio/lilwei/geo/modelA/",  //obj 序列路径
+    "ObjFileName":"head.$F.obj",                //obj 文件名
+    "ObjTex":"E:/MTStudio/lilwei/.../00000.png",//tex 数字人的脸部纹理贴图
     "UseSubdivide":1,                           //是否开启subdivide 细分
     "OutObj":"E:/MTStudio/lilwei/geo/name.$F4.obj",
     "OutPic":"E:/MTStudio/lilwei/pic/name.$F4.jpg",
