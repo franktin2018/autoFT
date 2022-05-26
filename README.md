@@ -43,15 +43,15 @@ os.system(hythonPath + " " + executePython + " " + hipFile)
 
 ``` json
 {
-    "TaskType":0,// 0 是 输出法线圆滑模型，1 是渲染出图，2是both
-    "ObjSrc":"E:/MTStudio/lilwei/geo/modelA/", //obj序列路径
-    "ObjFileName":"head.$F.obj", //obj 是文件名
-    "UseSubdivide":1, //是否开启subdivide 细分
+    "TaskType":0,                               // 0 是 输出法线圆滑模型，1 是渲染出图，2是both
+    "ObjSrc":"E:/MTStudio/lilwei/geo/modelA/",  //obj序列路径
+    "ObjFileName":"head.$F.obj",                //obj 是文件名
+    "UseSubdivide":1,                           //是否开启subdivide 细分
     "OutObj":"E:/MTStudio/lilwei/geo/name.$F4.obj",
     "OutPic":"E:/MTStudio/lilwei/pic/name.$F4.jpg",
-    "Res":[512,512],//渲染的分辨率大小
-    "RenderRange":[1,300], // 需要输出的 帧数范围
-    "Samples":[2,2] //渲染的采样精度，数值越大，噪点越少，速度越慢
+    "Res":[512,512],                            //渲染的分辨率大小
+    "RenderRange":[1,300],                      // 需要输出的 帧数范围
+    "Samples":[2,2]                             //渲染的采样精度，数值越大，噪点越少，速度越慢
 }
 
 ```
