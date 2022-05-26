@@ -1,0 +1,5 @@
+newmtl FaceTexture
+map_Ka 00009.png
+map_Kd 00009.png
+map_Ks 00009.png
+disp ./intro_new_model_1/00009-obj/00009_normals.png
