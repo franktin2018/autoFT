@@ -1,11 +1,12 @@
 {
-    "TaskType":0,
-    "ObjSrc":"E:/MTStudio/lilwei/geo/modelA/",
-    "ObjFileName":"head.$F.obj",
-    "UseSubdivide":1,
-    "OutObj":"E:/MTStudio/lilwei/geo/name.$F4.obj",
-    "OutPic":"E:/MTStudio/lilwei/pic/name.$F4.jpg",
-    "Res":[512,512],
-    "RenderRange":[1,64],
-    "Samples":[2,2]
+  "TaskType": 0,
+  "ObjSrc": "E:/MTStudio/lilwei/geo/modelA/",
+  "ObjFileName": "head.$F.obj",
+  "ObjTex": "D:/BaiduNetdiskDownload/FP.jpg",
+  "UseSubdivide": 1,
+  "OutObj": "E:/MTStudio/lilwei/geo/name.$F4.obj",
+  "OutPic": "E:/MTStudio/lilwei/pic/name.$F4.jpg",
+  "Res": [ 512, 512 ],
+  "RenderRange": [ 1, 300 ],
+  "Samples": [ 2, 2 ]
 }

@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+#houdini
+*backup/
+
 # Object files
 *.o
 *.ko
