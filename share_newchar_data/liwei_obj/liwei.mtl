@@ -1,0 +1,5 @@
+newmtl FaceTexture
+map_Ka liwei.png
+map_Kd liwei.png
+map_Ks liwei.png
+disp /mnt/nvme0n1/m2disk/DevSpace/DECA/TestSamples/liwei_reconstruct/liwei/liwei_normals.png

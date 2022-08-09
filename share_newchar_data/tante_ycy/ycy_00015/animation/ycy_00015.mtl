@@ -1,0 +1,5 @@
+newmtl FaceTexture
+map_Ka ycy_00015.png
+map_Kd ycy_00015.png
+map_Ks ycy_00015.png
+disp /home/bizon/Desktop/tante_ycy/ycy_00015/animation/ycy_00015_normals.png

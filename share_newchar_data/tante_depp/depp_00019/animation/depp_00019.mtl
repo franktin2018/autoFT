@@ -1,0 +1,5 @@
+newmtl FaceTexture
+map_Ka depp_00019.png
+map_Kd depp_00019.png
+map_Ks depp_00019.png
+disp /home/bizon/Desktop/tante_depp/depp_00019/animation/depp_00019_normals.png
